@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>icons/group.png</file>
+        <file>splash/PCL-logo.png</file>
+        <file>icons/text-x-python.svg</file>
+        <file>icons/internet-web-browser.svg</file>
+        <file>icons/help-browser.svg</file>
+        <file>icons/process-stop.svg</file>
+        <file>icons/document-open.svg</file>
+        <file>icons/document-save.svg</file>
+    </qresource>
+    <qresource prefix="/22" >
+        <file>icons/22/preferences-system.png</file>
+        <file>icons/22/camera.png</file>
+        <file>icons/22/delete.png</file>
+        <file>icons/22/pointer.png</file>
+        <file>icons/22/zoom.png</file>
+        <file>icons/22/open.png</file>
+        <file>icons/22/exit.png</file>
+        <file>icons/22/zoom-in.png</file>
+        <file>icons/22/zoom-out.png</file>
+    </qresource>
+    <qresource prefix="/16" >
+        <file>icons/16/list-add.png</file>
+        <file>icons/16/system-log-out.png</file>
+        <file>icons/16/process-stop.png</file>
+    </qresource>
+    <qresource prefix="/24" >
+        <file>icons/24/flag.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+#ifndef PCLVERSION_H
+#define PCLVERSION_H
+
+#define PCL_VERSION_MAJOR "0"
+#define PCL_VERSION_MINOR "1"
+#define PCL_VERSION_PATCH "0"
+
+#endif // PCLVERSION_H

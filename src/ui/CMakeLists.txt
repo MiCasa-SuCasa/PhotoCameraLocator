@@ -1,0 +1,10 @@
+SET(PCL_UIS
+    pclmainwindowgui.ui
+    pclflagdialog.ui
+   )
+   
+QT4_WRAP_UI(PCL_UIS_H ${PCL_UIS})
+
+ADD_CUSTOM_TARGET(photocl_ui ALL DEPENDS ${PCL_UIS_H})
+
+#INSTALL( FILES ${PCL_UIS_H} DESTINATION ${PHOTOCL_INCLUDE_SUBDIR})
